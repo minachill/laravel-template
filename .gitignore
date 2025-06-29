@@ -1,0 +1,5 @@
+docker/mysql/data/
+.env
+.DS_Store
+EOF 
+
